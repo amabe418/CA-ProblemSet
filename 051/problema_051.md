@@ -8,7 +8,7 @@ Dado dos conjuntos de números $A$ y $B$, determinar el conjunto $C = A \cap B$
 
 Debe imprimir todos los elementos de $C$ separados por espacio. Recuerde que un conjunto NO tiene elementos repetidos.
 
-Por ejemplo: Si $A=\{1,3,4\}$ y $B=\{1,2,3\}$
+Por ejemplo: Si $A=\{1,3,4\}$ y $B==\{1,2,3\}$
 
 Debería imprimir:
 
