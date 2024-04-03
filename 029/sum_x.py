@@ -13,4 +13,5 @@ def sum_x(x, nums:list):
         i+=1
         
     return len+1
-        
+
+l = [3,4,5,6]
